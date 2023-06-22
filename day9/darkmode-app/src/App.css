@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+}
+
+.App {
+  height: 100vh;
+  text-align: center;
+}
+
+
+.darkmode { 
+  background: #000;
+  color: #fff;
+}
+
+button {
+  padding: 10px;
+  text-transform: capitalize;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  border-bottom: 1px solid #ccc;
+  padding: 20px;
+}
+
+section {
+  padding: 20px;
+  background: #ddd;
+}
